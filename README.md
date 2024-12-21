@@ -1,8 +1,10 @@
 # Fitting Poisson  distribution
+```
 NAME : TEJASREE.K
 EXP NO : 02
 DATE : 05.10.2024
 REGISTER NO: 24900736
+```
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
